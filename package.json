@@ -1,0 +1,17 @@
+{
+  "private": true,
+  "version": "0.0.0",
+  "name": "gdc-task",
+  "devDependencies": {
+    "jest": "^27.3.1"
+  },
+  "scripts": {
+    "test": "jest",
+    "start":"node task.js"
+  },
+  "description": "cli todo",
+  "main": "task.js",
+  "author": "pranav",
+  "license": "ISC",
+  "type": "module"
+}
